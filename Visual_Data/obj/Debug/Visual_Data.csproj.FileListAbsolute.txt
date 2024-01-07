@@ -1,0 +1,21 @@
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.dll.config
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.dll
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.pdb
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.csproj.AssemblyReference.cache
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.csproj.CoreCompileInputs.cache
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.dll
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.pdb
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.dll.config
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.dll
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.pdb
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.csproj.AssemblyReference.cache
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.csproj.CoreCompileInputs.cache
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.dll
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.pdb
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.dll.config
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.dll
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Data\bin\Debug\Visual_Data.pdb
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.csproj.AssemblyReference.cache
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.csproj.CoreCompileInputs.cache
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.dll
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Data\obj\Debug\Visual_Data.pdb

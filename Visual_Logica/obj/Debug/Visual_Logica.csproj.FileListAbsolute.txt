@@ -1,0 +1,30 @@
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Logica.dll
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Logica.pdb
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.dll
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.pdb
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.dll.config
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.AssemblyReference.cache
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.CoreCompileInputs.cache
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.CopyComplete
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.dll
+D:\CORDILLERA\Cuarto Semestre\Visual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.pdb
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Logica.dll
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Logica.pdb
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.dll
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.pdb
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.dll.config
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.AssemblyReference.cache
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.CoreCompileInputs.cache
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.CopyComplete
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.dll
+C:\Users\ddani\OneDrive\Escritorio\Daniel\Itsco\Cuarto\PrograVisual\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.pdb
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\bin\Debug\Visual_Logica.dll
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\bin\Debug\Visual_Logica.pdb
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.dll
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.pdb
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\bin\Debug\Visual_Data.dll.config
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.AssemblyReference.cache
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.CoreCompileInputs.cache
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.csproj.CopyComplete
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.dll
+C:\Users\rober\Escritorio\semaestre\programacion visual\Nueva carpeta\Visual_WForms\Visual_Logica\obj\Debug\Visual_Logica.pdb

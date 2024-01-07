@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DC_Clinica">
+  <DataContextMoniker Name="/DC_ClinicaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="75da546c-0ba7-4981-a6b5-8eafcb6d548a" absoluteBounds="0.75, 2, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/DC_ClinicaDataContext/role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="932a239e-9a64-4d91-9ff4-d3e5b62d07b4" absoluteBounds="0.765, 2.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ed89918-1677-4a0a-9573-bbd95bf127e4" absoluteBounds="3.5, 1, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/DC_ClinicaDataContext/Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aa1de167-a85c-4fa5-a2a6-7266e33fad03" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.69314697265625); (3.5 : 2.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DC_ClinicaDataContext/role/role_Usuario" />
+      <nodes>
+        <classShapeMoniker Id="75da546c-0ba7-4981-a6b5-8eafcb6d548a" />
+        <classShapeMoniker Id="5ed89918-1677-4a0a-9573-bbd95bf127e4" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="b7dfa9fc-82ca-4974-9722-77d5e08160d7" absoluteBounds="6, 2.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DC_ClinicaDataContext/auditoria" />
+      <nestedChildShapes>
+        <elementListCompartment Id="06b6a0c9-37a4-4c46-b9e6-fc5dd175f914" absoluteBounds="6.015, 3.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
