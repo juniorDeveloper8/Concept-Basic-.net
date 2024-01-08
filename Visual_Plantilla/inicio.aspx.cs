@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Data.SqlTypes;
 using System.Linq;
+using System.Security.Claims;
+using System.Web.Security;
+using System.Web.UI;
 using System.Web.UI.WebControls;
 using Visual_Data;
 using Visual_Logica;
@@ -9,48 +12,38 @@ namespace Visual_Plantilla
 {
     public partial class inicio : System.Web.UI.Page
     {
-        private static DC_ClinicaDataContext dc = new DC_ClinicaDataContext();
         protected void Page_Load(object sender, EventArgs e)
         {
-            loadUser();
-        }
-        private void loadUser()
-        {
-            var usuarios = LogicaUsuario.mostrarUsuariosActivos();
+            if (!IsPostBack)
+            {
+                // Verifica si el usuario está autenticado
+                if (!User.Identity.IsAuthenticated)
+                {
+                    // Resto del código para la autenticación cuando el usuario no está autenticado
+                }
+                else
+                {
+                    // El usuario está autenticado, puedes agregar lógica adicional si es necesario
+                    // ...
 
-            if (usuarios != null)/*evaluo q los paramtros no sean nulos*/
-            {
-                ListUser.DataSource = usuarios;
-                ListUser.DataBind();
-            }
-            else
-            {
-                var usuariosA = dc.Usuarios
-                    /*redusco el tamaño de la tabla creo usando linq*/
-                    .Where(data => data.estado.Equals('A') &&
-                                   (data.ingreso != null && data.ingreso > SqlDateTime.MinValue.Value) &&
-                                   (data.modificacion != null && data.modificacion > SqlDateTime.MinValue.Value) &&
-                                   (data.eliminacion != null && data.eliminacion > SqlDateTime.MinValue.Value))
-                    .ToList()
-                    .Select(data => new Usuario
+                    // Accede al control en la página maestra
+                    Label lblWelcomeMessage = Master?.FindControl("lblWelcomeMessage") as Label;
+
+                    // Verifica si el control se encontró antes de usarlo
+                    if (lblWelcomeMessage != null)
                     {
-                        id = data.id,
-                        nombre = data.nombre,
-                        apellido = data.apellido,
-                        usuario1 = data.usuario1,
-                        clave = data.clave,
-                        email = data.email,
-                        sueldo = data.sueldo,
-                        estado = data.estado,
-                        id_rol = data.id_rol,
-                    })
-                    .ToList();
-
-                ListUser.DataSource = usuariosA;
-                ListUser.DataBind();
+                        // Modifica el texto del control
+                        lblWelcomeMessage.Text = $"Bienvenido, {User.Identity.Name}!";
+                    }
+                }
             }
         }
 
-
+        protected void btnSignIn_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/PagesAspx/Home.aspx");
+            
+        }
+      
     }
 }

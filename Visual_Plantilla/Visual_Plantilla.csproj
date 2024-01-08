@@ -17705,6 +17705,9 @@
     <Content Include="node_modules\zip-stream\node_modules\archiver-utils\file.js" />
     <Content Include="node_modules\zip-stream\node_modules\archiver-utils\index.js" />
     <Content Include="PagesAspx\Crear.aspx" />
+    <Content Include="PagesAspx\Edit.aspx" />
+    <Content Include="PagesAspx\Home.aspx" />
+    <Content Include="PagesAspx\Registro.aspx" />
     <Content Include="postcss.config.js" />
     <Content Include="src\img\avatars\avatar-2.jpg" />
     <Content Include="src\img\avatars\avatar-3.jpg" />
@@ -17761,12 +17764,40 @@
     <Compile Include="PagesAspx\Crear.aspx.designer.cs">
       <DependentUpon>Crear.aspx</DependentUpon>
     </Compile>
+    <Compile Include="PagesAspx\Edit.aspx.cs">
+      <DependentUpon>Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesAspx\Edit.aspx.designer.cs">
+      <DependentUpon>Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesAspx\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesAspx\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesAspx\Registro.aspx.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesAspx\Registro.aspx.designer.cs">
+      <DependentUpon>Registro.aspx</DependentUpon>
+    </Compile>
     <Compile Include="PagesMaster\FormularioCrear.Master.cs">
       <DependentUpon>FormularioCrear.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="PagesMaster\FormularioCrear.Master.designer.cs">
       <DependentUpon>FormularioCrear.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PagesMaster\FormularioEdit.Master.cs">
+      <DependentUpon>FormularioEdit.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesMaster\FormularioEdit.Master.designer.cs">
+      <DependentUpon>FormularioEdit.Master</DependentUpon>
     </Compile>
     <Compile Include="PagesMaster\home.Master.cs">
       <DependentUpon>home.Master</DependentUpon>
@@ -17781,6 +17812,20 @@
     </Compile>
     <Compile Include="inicio.aspx.designer.cs">
       <DependentUpon>inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PagesMaster\Login.Master.cs">
+      <DependentUpon>Login.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesMaster\Login.Master.designer.cs">
+      <DependentUpon>Login.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PagesMaster\Registro.Master.cs">
+      <DependentUpon>Registro.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PagesMaster\Registro.Master.designer.cs">
+      <DependentUpon>Registro.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -22032,6 +22077,9 @@
     <Content Include="static\fonts\.gitkeep" />
     <Content Include="static\js\app.js.map" />
     <Content Include="PagesMaster\FormularioCrear.Master" />
+    <Content Include="PagesMaster\FormularioEdit.Master" />
+    <Content Include="PagesMaster\Login.Master" />
+    <Content Include="PagesMaster\Registro.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
