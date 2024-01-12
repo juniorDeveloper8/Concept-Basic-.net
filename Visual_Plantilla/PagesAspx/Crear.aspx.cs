@@ -63,10 +63,10 @@ namespace Visual_Plantilla.PagesAspx
 
                 // Mostrar mensaje de éxito
                 Session["RedirectMessage"] = "Usuario creado correctamente.";
-                Session["RedirectUrl"] = "../inicio.aspx";
+                Session["RedirectUrl"] = "~/PagesAspx/Home.aspx";
 
                 // Redirigir a la página de inicio
-                Response.Redirect("../inicio.aspx");
+                Response.Redirect("~/PagesAspx/Home.aspx");
             }
             catch (Exception ex)
             {
